@@ -1,0 +1,65 @@
+body,h1,h2,h3,h4{
+	margin: 0;
+	padding: 0;
+}
+img{
+	display: block;
+}
+a{
+	text-decoration: none;
+}
+.ding{
+	width: 7.5rem;
+	height: .55rem;
+	background-image: url('img/1.jpg');
+	background-repeat: no-repeat;
+	background-size: 7.5rem .55rem;
+}
+.top{
+	width: 7.5rem;
+	height: 1.2rem;
+	text-align: center;
+	font-size: .16rem;
+	margin-top: .3rem;
+	border-bottom: .01rem solid #f0f0f0;
+}
+.iconfont{
+	float: right;
+	font-size: .14rem;
+	margin-right: .2rem;
+}
+.nan{
+	width: 7.5rem;
+	height: 3rem;
+	margin-top: .3rem;
+}
+.nan .nei{
+	width: 6.7rem;
+	height: 3rem;
+	margin: 0 auto;
+	border-bottom: .01rem solid #d7d7d7;
+}
+.nan .nei .zi1{
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+.nan .nei .zi2{
+	font-size: 1.5rem;
+	color: #d7d7d7;
+}
+.nan .nei .zi3{
+	font-size: .5rem;
+	color: #d7d7d7;
+}
+.nan .nei .xia{
+	font-size: .3rem;
+	margin-top: .5rem;
+}
+.nan .nei .xia span{
+	margin-right: .4rem;
+	color: #a6a6a6;
+}
+.nan .nei .zi4{
+	font-size: .8rem;
+	color: #d7d7d7;
+}

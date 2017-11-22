@@ -1,0 +1,148 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+img{
+	display: block;
+}
+.box{
+	width: 7.5rem;
+	height: .55rem;
+	background-image: url("img/1.jpg");
+	background-size: 7.5rem .55rem;
+	background-repeat: no-repeat;
+}
+.top{
+	width: 7.5rem;
+	height: 3rem;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.top .title{
+	width: 7.5rem;
+	height: 1.61rem;
+	margin-top: .6rem;
+}
+.top .title .center{
+	font-size: 0.64rem;
+	float: left;
+	margin: .19rem .19rem 0 2.47rem;
+}
+.top .title .iconfont{
+	font-size: 0.64rem;
+	float: right;
+	margin: .19rem .27rem 0 0;
+}
+.top .sou{
+	width: 6.7rem;
+	height: 1.2rem;
+	background-color: #EEEEEE;
+	margin: 0 auto;
+}
+.top .sou .iconfont{
+	font-size: 0.42rem;
+	line-height:1.2rem;
+	text-align: center;
+	color: #9E9E9E;
+}
+.photo{
+	width: 7.5rem;
+	height: 10.94rem;
+	background-color: red;
+	margin-top: 3rem;
+}
+.photo a img{
+	width: 7.5rem;
+	height: 10.94rem;
+}
+.new{
+	width: 7.5rem;
+	height: 1.35rem;
+	margin-top: .3rem;
+}
+.new img{
+	width: 7.5rem;
+	height: 1.35rem;
+}
+.lan{
+	width: 7.5rem;
+	height: 1.49rem;
+}
+.lan h1{
+	float: left;
+	font-size: .12rem;
+	line-height: 1.49rem;
+	text-align: center;
+	margin-left: .35rem;
+	color: #A6A6A6;
+}
+.win{
+	width: 7.5rem;
+	height: 9rem;
+}
+.win img{
+	width: 6.71rem;
+	height: 3.79rem;
+	margin: 0 auto;
+}
+.win .last{
+	width: 6.71rem;
+	height: 4.57rem;
+	background-color: #F8F8F8;
+	margin:0 auto;
+}
+.win .last .yuan{
+	width: 1.83rem;
+	height:1.83rem;
+	border-radius: 50%;
+	background-color: #fff;
+	float: left;
+	margin: .3rem .2rem 0 .2rem;
+}
+.win .last h1{
+	font-size: .12rem;
+	line-height: 1.83rem;
+	margin-left: .3rem;
+	float: left;
+	margin-right: .5rem;
+}
+.more{
+	width: 7.5rem;
+	height: 1.8rem;
+}
+.more .mo{
+	width: 1.98rem;
+	height: 0.46rem;
+	border: .01rem solid #000;
+	margin: 0 auto;
+	padding-bottom: .2rem;
+}
+.more .mo h1{
+	font-size: .18rem;
+	text-align: center;
+}
+.di{
+	width: 7.5rem;
+	height: 1rem;
+	background-color: #242421;
+	position: fixed;
+	bottom: 0;
+	left: 0
+}
+.di .di1{
+	width: 20%;
+	height: 1rem;
+	float: left;
+}
+.di .di1 .iconfont{
+	font-size: .14rem;
+	text-align: center;
+	margin-top: .08rem;
+	color: #9D9D9E;
+}
+.di .di1 .zi{
+	font-size: .14rem;
+	text-align: center;
+	color: #9D9D9E;
+}

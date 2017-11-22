@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.top{
+	width: 7.5rem;
+	height: 2rem;
+	line-height: 2rem;
+	text-align: center;
+	font-size: .2rem;
+	border-bottom:.01rem solid #f0f0f0;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.last{
+	width: 7.5rem;
+	height: auto;
+}
+.last .lo{
+	width: 2.5rem;
+	height: 2rem;
+	float: left;
+	margin-top: 2.5rem;
+	padding-left: .2rem;
+	box-sizing: border-box;
+}
+.di{
+	width: 7.5rem;
+	height: 1rem;
+	background-color: #242421;
+	position: fixed;
+	bottom: 0;
+	left: 0
+}
+.di .di1{
+	width: 20%;
+	height: 1rem;
+	float: left;
+}
+.di .di1 .iconfont{
+	font-size: .14rem;
+	text-align: center;
+	margin-top: .08rem;
+	color: #9D9D9E;
+}
+.di .di1 .zi{
+	font-size: .14rem;
+	text-align: center;
+	color: #9D9D9E;
+}
+.di .di1 .zi3{
+	color: #fff;
+}
+.icon-pinpai{
+	color: #fff;
+}
